@@ -44,9 +44,9 @@ This project utilizes Grounding DINO for object detection. Setup instructions:
    git clone https://github.com/omsenpaiii/Furniture-Identifier.git
    cd Furniture-Identifier
    ```
-2. Install dependencies:
+2. Install notebook:
    ```bash
-   pip install -r requirements.txt
+   (https://github.com/omsenpaiii/Furniture-Identifier/blob/main/Furniture_Identifier.ipynb)
    ```
 3. Open Google Colab and navigate to the provided Colab notebook link.
 4. In Colab, go to **Runtime** > **Run all** to execute the notebook and test the model.
