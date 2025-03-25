@@ -67,7 +67,7 @@ This project utilizes Grounding DINO for object detection. Setup instructions:
 - Expand the dataset to test more furniture types and subcategories.
 - Integrate Augmented Reality (AR) for real-world furniture visualization.
 - Deploy the model as a web app using Flask or FastAPI.
-- Address dataset imbalance and improve accuracy for similar-looking furniture items.
+- Can add depth estimation for room space to recommend suitable 3D furniture.
 
 ## 📜 License
 This project is open-source and available under the [MIT License](LICENSE).
