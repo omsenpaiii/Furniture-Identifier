@@ -13,10 +13,6 @@ The objective of this project is to implement an object detection model capable 
 Check out the full implementation here:
 [GitHub - Furniture Identifier](https://github.com/omsenpaiii/Furniture-Identifier/tree/main)
 
-## 🔗 Colab Notebook
-To test the implementation, you can run the following Colab notebook:
-[Grounded Segment Anything - Colab Demo](https://colab.research.google.com/github/betogaona7/Grounded-Segment-Anything/blob/main/grounded_sam_colab_demo.ipynb?authuser=1#scrollTo=kAi4IkEfKi5K)
-
 ## 🔗 Reference: Grounding DINO
 This project utilizes Grounding DINO for object detection. Setup instructions:
 ```bash
