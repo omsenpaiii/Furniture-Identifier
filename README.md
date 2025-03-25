@@ -71,8 +71,8 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## 📬 Contact
 For any queries, feel free to reach out:
-- 📧 Email: your-email@example.com
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 📧 Email: omtomar4882.be22@chitkara.edu.in
+- 🐦 Twitter: [@ot_tomar](https://x.com/ot_tomar)
 
 ---
 🚀 **Happy Coding!**
