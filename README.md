@@ -84,4 +84,4 @@ For any queries, feel free to reach out:
 🚀 **Happy Coding!**
 
 # Developed for Ikarus 3D
-Future plans might include deploying it as a web app using Flask or FastAPI.
+By Om Tomar
