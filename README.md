@@ -63,6 +63,12 @@ This project utilizes Grounding DINO for object detection. Setup instructions:
 - **Advanced Segmentation:** Uses SAM (Segment Anything Model) for precise wall and floor segmentation.
 - **Interactive Customization:** Enables changing wall and floor colors dynamically.
 
+## 🔮 Future Scope
+- Expand the dataset to test more furniture types and subcategories.
+- Integrate Augmented Reality (AR) for real-world furniture visualization.
+- Deploy the model as a web app using Flask or FastAPI.
+- Address dataset imbalance and improve accuracy for similar-looking furniture items.
+
 ## 📜 License
 This project is open-source and available under the [MIT License](LICENSE).
 
